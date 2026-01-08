@@ -58,6 +58,7 @@ button:hover{
         <input type="password" name="password" placeholder="Password" required>
         <button type="submit">Login</button>
     </form>
+    <h3>User :aku  Pw:123</h3>
 </div>
 
 </body>
